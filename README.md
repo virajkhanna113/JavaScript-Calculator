@@ -1,6 +1,6 @@
 # JavaScript-Calculator
 
-A simple calculator that I created during my front-end web development course from freeCodeCamp.org
+A simple calculator.
 
 ## Technologies used
 * Languages: JavaScript, HTML 5
