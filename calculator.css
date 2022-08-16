@@ -22,17 +22,13 @@
 .app {
   height: 100vh;
   display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
 }
 
 body {
   background: #34a7e0;
-  -webkit-touch-callout: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
-  -webkit-user-select: none;
-  user-select: none;
   cursor: default;
 }
 
@@ -89,4 +85,14 @@ button:hover {
 
 .jumbo {
   width: 158px;
+}
+
+.creator {
+  font-size: 20px;
+  font-family: digital;
+  text-align: center;
+  margin-top: 20px;
+}
+.author {
+  color: white;
 }
